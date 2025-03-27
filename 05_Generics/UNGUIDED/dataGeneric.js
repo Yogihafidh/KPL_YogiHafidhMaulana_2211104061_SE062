@@ -9,5 +9,5 @@ class DataGeneric {
 }
 
 // Contoh penggunaan
-const data = new DataGeneric("NIM_PRAKTIKAN");
+const data = new DataGeneric("2211104061");
 data.PrintData();

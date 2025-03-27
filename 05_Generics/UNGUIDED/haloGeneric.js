@@ -9,5 +9,5 @@ class HaloGeneric {
 }
 
 // Contoh penggunaan
-const sapa = new HaloGeneric("Nama_Panggilan");
+const sapa = new HaloGeneric("Yogi");
 sapa.SapaUser();
