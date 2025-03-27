@@ -8,6 +8,5 @@ class DataGeneric {
   }
 }
 
-// Contoh penggunaan
 const data = new DataGeneric("2211104061");
 data.PrintData();
