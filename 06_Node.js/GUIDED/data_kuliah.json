@@ -1,0 +1,24 @@
+{
+  "student": {
+    "name": "Yogi Hafidh Maulana"
+  },
+  "lecturerCode": "D123",
+  "courses": [
+    {
+      "courseCode": "IF101",
+      "courseName": "Pemrograman Dasar"
+    },
+    {
+      "courseCode": "IF102",
+      "courseName": "Struktur Data"
+    },
+    {
+      "courseCode": "IF108",
+      "courseName": "Basis Data"
+    },
+    {
+      "courseCode": "IF110",
+      "courseName": "Kontruksi Perangkat Lunak"
+    }
+  ]
+}
